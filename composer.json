@@ -1,0 +1,13 @@
+{
+    "name": "dbmover/mysql-triggers",
+    "description": "Dbmover plugin for MySQL-specific trigger (re)creation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
